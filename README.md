@@ -43,10 +43,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/mqQjY3q.gif)
-![](https://i.imgur.com/xqW8jWl.gif)
-![](https://i.imgur.com/P3sXO0R.gif)
-
-
+![](https://i.imgur.com/LtubPKv.gif)
+![](https://i.imgur.com/z1LWb9J.gif)
 
 
 ## Reflection Questions
